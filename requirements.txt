@@ -1,0 +1,7 @@
+
+speechrecognition    # распознавание речи (Google)
+pyaudio              # доступ к микрофону (обязателен для speechrecognition)
+openai               # клиент для Groq API
+pyttsx3              # синтез речи
+keyboard             # отслеживание нажатий клавиш
+pyautogui            # управление клавиатурой и мышью (открытие приложений)
